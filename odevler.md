@@ -18,6 +18,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) ・ [video](https://drive.google.com/file/d/1q6h2KgiJwF3XZUNW_rr-UAx8TMTvTQDb/view) | Python, LangChain, Groq | LibreDB/PostgreSQL üzerindeki telekom telemetri verisini analiz eden ve müşteri kaybını (churn) azaltmaya yönelik aksiyon üreten cognitive agent. |
 | 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | Verilen araştırma konusu için otomatik veri toplayan araştırma asistanı agent'ı. |
 | 4 | [Kadriye Işık](https://github.com/kadriyeisik) | [telecomops-ai-agent](https://github.com/kadriyeisik/telecomops-ai-agent) | Java (Spring Boot), React, OpenAI, Ollama | Telecom AI agent that autonomously diagnoses customer network issues using tool calling, supports OpenAI and Ollama models, and provides explainable diagnostic workflows with actionable resolutions. |
+| 5 | [İrem Tuğba Sağsöz](https://github.com/iremsagsoz) | [ai-code-review-agent](https://github.com/iremsagsoz/ai-code-review-agent) | Python, FastAPI, Gemini API | Python dosyalarını veya projelerini Google Gemini API ile analiz eden, güvenlik ve kod kalitesi değerlendirmeleri yaparak detaylı rapor oluşturan AI Code Review Agent. |
 
 ## Kendini Ekle
 
