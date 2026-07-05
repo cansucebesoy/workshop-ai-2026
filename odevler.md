@@ -22,6 +22,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 6 | [Cennet Akçakaya](https://github.com/Cennetaakcakaya) | [gunluk-asistan-chatbot](https://github.com/Cennetaakcakaya/gunluk-asistan-chatbot) | Python, Streamlit, Groq API | Günlük planlama, ders çalışma programı hazırlama, yemek önerileri, motivasyon desteği ve mesaj taslakları oluşturan LLM tabanlı günlük yaşam asistanı. |
 | 7 | [Zeliha Polat](https://github.com/zelihapp) | [deep-learning-model-management-agent](https://github.com/zelihapp/deep-learning-model-management-agent) | Python, Ollama | Framework kullanmadan yazılmış, eğitim loglarını analiz eden, modelleri karşılaştıran ve hiperparametre önerisi sunan agent. |
 | 8 | [Aybüke Şenel](https://github.com/aybuke-senel) | [QuietScript](https://github.com/aybuke-senel/QuietScript) | Python, Ollama, Qwen 2.5 | Yerel çalışan LLM ile metin analizi, yazı geliştirme ve yazma desteği sunan AI agent'ı. |
+| 9 | [Elif Nur Akyol](https://github.com/enurakyol) | [project-planning-agent](https://github.com/enurakyol/project-planning-agent) | Python, Google GenAI SDK | Google Gemini kullanarak farklı projeler için kapsamlı proje planı oluşturan yapay zeka ajanı. |
 
 ## Kendini Ekle
 
