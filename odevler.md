@@ -24,6 +24,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 8 | [Aybüke Şenel](https://github.com/aybuke-senel) | [QuietScript](https://github.com/aybuke-senel/QuietScript) | Python, Ollama, Qwen 2.5 | Yerel çalışan LLM ile metin analizi, yazı geliştirme ve yazma desteği sunan AI agent'ı. |
 | 9 | [Elif Nur Akyol](https://github.com/enurakyol) | [project-planning-agent](https://github.com/enurakyol/project-planning-agent) | Python, Google GenAI SDK | Google Gemini kullanarak farklı projeler için kapsamlı proje planı oluşturan yapay zeka ajanı. |
 | 10 | [Nimet Atila](https://github.com/nimetbuse07) | [telecom_support_agent](https://github.com/nimetbuse07/telecom_support_agent) | Python, LangChain, Groq | Müşteri şikayetlerini analiz edip, gerçek zamanlı veritabanı sorgularıyla teşhis koyan ve gerektiğinde otonom olarak saha ekibi kaydı açan bilişsel asistan. |
+| 11 | [Esra Ece Güngüney](https://github.com/eecegunguney) | [Frankl.ai](https://github.com/eecegunguney/Frankl.ai) | Python, Ollama | Frankl.ai, local bir LLM üzerinde çalışan, logoterapi ve BDT teknikleriyle kullanıcıların anlam arayışına ve duygu durumlarına rehberlik eden güvenli bir yapay zekâ sohbet arkadaşıdır. |
 
 ## Kendini Ekle
 
