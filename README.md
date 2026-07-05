@@ -15,6 +15,8 @@ external dependencies are required to view them.
 - `gorevler.html` — participant tasks (12 exercises). The closing slide of the
   deck links here via a QR code and short URL so participants can open it on
   their own devices.
+- `odevler.md` — post-workshop homework showcase: participant-built AI agent
+  repos, with a thank-you note and instructions for adding yourself via PR.
 
 ## Local preview
 
