@@ -26,6 +26,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 10 | [Nimet Atila](https://github.com/nimetbuse07) | [telecom_support_agent](https://github.com/nimetbuse07/telecom_support_agent) | Python, LangChain, Groq | Müşteri şikayetlerini analiz edip, gerçek zamanlı veritabanı sorgularıyla teşhis koyan ve gerektiğinde otonom olarak saha ekibi kaydı açan bilişsel asistan. |
 | 11 | [Esra Ece Güngüney](https://github.com/eecegunguney) | [Frankl.ai](https://github.com/eecegunguney/Frankl.ai) | Python, Ollama | Frankl.ai, local bir LLM üzerinde çalışan, logoterapi ve BDT teknikleriyle kullanıcıların anlam arayışına ve duygu durumlarına rehberlik eden güvenli bir yapay zekâ sohbet arkadaşıdır. |
 | 12 | [Doğa Güneş](https://github.com/doagunes) | [csv-analyst-agent](https://github.com/doagunes/csv-analyst-agent) | Python, Ollama | CSV verisiyle doğal dilde konuşan, tamamen yerel (Ollama + llama3.1) çalışan analiz agent'ı. |
+| 13 | [Berna Talay](https://github.com/bernatalayy) | [email-classification-agent](https://github.com/bernatalayy/email-classification-agent) | Python, Ollama | Müşteri e-postalarını analiz eden, özetleyen, ticket oluşturan, öneri yanıtları üreten ve ticket kayıtlarını Excel’de saklayan AI agent. |
 
 ## Kendini Ekle
 
